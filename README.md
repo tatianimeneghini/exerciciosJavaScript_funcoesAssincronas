@@ -1,4 +1,4 @@
-# Exercícios Promise e Async/Await
+# Exercícios Promise e Async/Await :eyeglasses:
 
 Exercícios de funções assíncronas do JavaScript para estudo.
 
